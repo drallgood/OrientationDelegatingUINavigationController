@@ -1,6 +1,5 @@
 //
-//  UINavigationController+Orientation.m
-//  SwitchControl_Framework
+//  OrientationDelegatingUINavigationController.m
 //
 //  Created by Patrice Brend'amour on 10/7/14.
 //  Copyright (c) 2014 Patrice Brend'amour. All rights reserved.
